@@ -24,10 +24,10 @@ Here I will list data analysis projects briefly describing the technology stack 
 
 ### [Exploratory Data Analysis Using MySql](https://github.com/apoorvakole/EDA-using-MySql.git)
 
-**Description**: The dataset contains 1 fact table and 3 dimension tables. The dataset includes sales data, prodcuts data, customers address data and sales team data. The project includes the following steps: importing data in MySql and querying data to gain insights.
-**Skills**: data querying 
-**Technology**: MySql
-**Results**: created an analytical dashboard to support daily activities of a company involved in chocolates selling business.
+##### **Description**: The dataset contains 1 fact table and 3 dimension tables. The dataset includes sales data, prodcuts data, customers address data and sales team data. The project includes the following steps: importing data in MySql and querying data to gain insights.
+##### **Skills**: data querying 
+##### **Technology**: MySql
+##### **Results**: created an analytical dashboard to support daily activities of a company involved in chocolates selling business.
 
 ### Certificates
 
@@ -39,6 +39,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 
 ### Contact 
 
-Linkedin - [@apoorvakole](www.linkedin.com/in/apoorva-kole-36b618159
-Email - koleapoorva@gmail.com
+##### Linkedin - [@apoorvakole](www.linkedin.com/in/apoorva-kole-36b618159
+##### Email - koleapoorva@gmail.com
 
