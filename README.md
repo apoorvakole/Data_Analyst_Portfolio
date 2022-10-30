@@ -29,7 +29,7 @@ Here I will list data analysis projects briefly describing the technology stack 
 ##### **Technology**: MySql
 ##### **Results**: created an analytical dashboard to support daily activities of a company involved in chocolates selling business.
 
-### Certificates
+## Certificates
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. So here is a list of the ones I have-
 
@@ -37,7 +37,7 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ##### [Microsoft PowerBI- The Practical Guide (2022 Edition)](ude.my/UC-a9bbb35a-5331-4481-9e58-1f723bd57c01)(Aug 2022)
 ##### [Business Intelligence Using PowerBI](https://github.com/apoorvakole/sales-dashboard/blob/157f2740e39a071d4c793f247b98977854f7d940/Power%20BI%20Certificate.pdf)(Oct 2022)
 
-### Contact 
+## Contact 
 
 ##### Linkedin - [@apoorvakole](www.linkedin.com/in/apoorva-kole-36b618159
 ##### Email - koleapoorva@gmail.com
