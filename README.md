@@ -1,10 +1,10 @@
 # Apoorva Kole - Data Analysis Portfolio
 
-###  About
+## About
 
 Hello, I'm Apoorva!I have a technical background and hold a B.E. degree in civil engineering degree (Sharad Institute of Technology, Yadrav). I'm transitioning to Data Analysis. This is a repository to showcase skills, share projects and track my progress in Data Analysis related topics. 
 
-###  Portfolio Projects
+##  Portfolio Projects
 
 Here I will list data analysis projects briefly describing the technology stack used .
 
