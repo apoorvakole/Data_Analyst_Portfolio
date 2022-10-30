@@ -33,9 +33,9 @@ Here I will list data analysis projects briefly describing the technology stack 
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. So here is a list of the ones I have-
 
-[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5aff5d6f2bac4fd080891a42f2c9d2ac)(Jun 2022)
-[Microsoft PowerBI- The Practical Guide (2022 Edition)](ude.my/UC-a9bbb35a-5331-4481-9e58-1f723bd57c01)(Aug 2022)
-[Business Intelligence Using PowerBI](https://github.com/apoorvakole/sales-dashboard/blob/157f2740e39a071d4c793f247b98977854f7d940/Power%20BI%20Certificate.pdf)(Oct 2022)
+##### [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5aff5d6f2bac4fd080891a42f2c9d2ac)(Jun 2022)
+##### [Microsoft PowerBI- The Practical Guide (2022 Edition)](ude.my/UC-a9bbb35a-5331-4481-9e58-1f723bd57c01)(Aug 2022)
+##### [Business Intelligence Using PowerBI](https://github.com/apoorvakole/sales-dashboard/blob/157f2740e39a071d4c793f247b98977854f7d940/Power%20BI%20Certificate.pdf)(Oct 2022)
 
 ### Contact 
 
