@@ -8,7 +8,7 @@ Hello, I'm Apoorva!I have a technical background and hold a B.E. degree in civil
 
 Here I will list data analysis projects briefly describing the technology stack used .
 
-### [Sales Dashboard](https://github.com/apoorvakole/sales-dashboard.git)
+### [Sales Insights Dashboard](https://github.com/apoorvakole/sales-dashboard.git)
 
 ##### **Description**: The dataset contains 4115 records as from 2017 to 2020. There is a list of orders by customers name, address, shipment mode, category ,sub-category , product name, cost, sales, profit and quantity. The project includes the following steps: data loading, data cleaning and preprocessing, creating metrics and visuals to gain insights.
 ##### **Skills**: data cleaning, data visualization.
