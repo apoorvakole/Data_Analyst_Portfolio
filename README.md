@@ -22,9 +22,9 @@ Here I will list data analysis projects briefly describing the technology stack 
 ##### **Technology**: Power BI
 ##### **Results**: created an analytical dashboard to support daily activities of a company involved in Hospitality Domain.
 
-### [Exploratory Data Analysis Using MySql](https://github.com/apoorvakole/EDA-using-MySql.git)
+### [Exploratory Data Analysis Using MySQL](https://github.com/apoorvakole/EDA-using-MySql.git)
 
-##### **Description**: The dataset contains 1 fact table and 3 dimension tables. The dataset includes sales data, prodcuts data, customers address data and sales team data. The project includes the following steps: importing data in MySql and querying data to gain insights.
+##### **Description**: The dataset contains 1 fact table and 3 dimension tables. The dataset includes sales data, products data, customers address data and sales team data. The project includes the following steps: importing data in MySQL and querying data to gain insights.
 ##### **Skills**: data querying 
 ##### **Technology**: MySQL
 ##### **Results**: created an analytical dashboard to support daily activities of a company involved in chocolates selling business.
