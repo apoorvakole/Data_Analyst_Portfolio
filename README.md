@@ -2,7 +2,7 @@
 
 ## About
 
-Hello, I'm Apoorva!I have a technical background and hold a B.E. degree in civil engineering (Sharad Institute of Technology, Yadrav). I'm transitioning into Data Analysis. This is a repository to showcase skills, share projects and track my progress in Data Analysis related topics. 
+Hello, I'm Apoorva!I have a technical background and hold a B.E. degree in civil engineering (Sharad Institute of Technology College of Engineering, Yadrav). I'm transitioning into Data Analysis. This is a repository to showcase skills, share projects and track my progress in Data Analysis related topics. 
 
 ##  Portfolio Projects
 
