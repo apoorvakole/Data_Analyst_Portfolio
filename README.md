@@ -27,7 +27,7 @@ Here I will list data analysis projects briefly describing the technology stack 
 ##### **Technology**: MySQL
 ##### **Description**: The dataset contains 1 fact table and 3 dimension tables. The dataset includes sales data, products data, customers address data and sales team data. The project includes the following steps: importing data in MySQL and querying data to gain insights.
 ##### **Skills**: data querying 
-##### **Results**: Worked on the datasetof a chocolate selling company to support marketing objectives by analyzing the data performing EDA.
+##### **Results**: Worked on the dataset of a chocolate selling company to support marketing objectives by analyzing the data performing EDA.
 
 ## Certificates
 
